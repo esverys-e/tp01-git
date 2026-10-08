@@ -126,6 +126,9 @@ To github.com:esverys-e/tp01-git.git
  * [new branch]      main -> main
 la branche 'main' est paramétrée pour suivre 'origin/main'.
 
+2. après un push réussi, les commits de main publiés sur GitHub sont ceux de l’historique local envoyé.
+brouillon.txt n’apparaît pas
+
 ### Question 6.4a
 
 1. car la modification a crée une nouvelle version et donc contient les modifiecation
@@ -133,3 +136,12 @@ la branche 'main' est paramétrée pour suivre 'origin/main'.
 ### Question 6.4b 
 
 1. L'autreur est Arnaud espinasse donc moi meme 
+
+### Question 6.5
+
+1.  Répertoire de travail --( git add )--> Zone de préparation --( git commit)--> Dépôt local --( git push )--> GitHub
+          ^                                                                               |
+          +--------------------------------------( ? )------------------------------------+
+
+## Partie 7
+
