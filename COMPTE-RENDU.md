@@ -98,3 +98,32 @@ les noms se terminant
 
 1. les fichier des differente clés
 
+### Question 5.4
+
+1. The authenticity of host 'github.com (140.82.121.4)' can't be established.
+ED25519 key fingerprint is SHA256:+DiY3wvvV6TuJJhbpZisF/zLDA0zPMSvHdkr4UvCOqU.
+This key is not known by any other names.
+Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
+Warning: Permanently added 'github.com' (ED25519) to the list of known hosts.
+Hi esverys-e! You've successfully authenticated, but GitHub does not provide shell access.
+
+
+## Partie 6
+
+### Question 6.3
+
+1. origin  git@github.com:esverys-e/tp01-git.git (fetch)
+origin  git@github.com:esverys-e/tp01-git.git (push)
+
+Énumération des objets: 18, fait.
+Décompte des objets: 100% (18/18), fait.
+Compression par delta en utilisant jusqu'à 12 fils d'exécution
+Compression des objets: 100% (17/17), fait.
+Écriture des objets: 100% (18/18), 3.15 Kio | 1.05 Mio/s, fait.
+Total 18 (delta 5), réutilisés 0 (delta 0), réutilisés du pack 0
+remote: Resolving deltas: 100% (5/5), done.
+To github.com:esverys-e/tp01-git.git
+ * [new branch]      main -> main
+la branche 'main' est paramétrée pour suivre 'origin/main'.
+
+2. 
