@@ -54,3 +54,47 @@ Date:   Thu Oct 1 11:44:40 2026 +0200
 1. README.md est indiqué comme modified
 2. Le + devant la ligne de l’année signifie que cette ligne a été ajoutée. Et le git diff sert a voir les modification
 
+### Question 3.8
+
+1. 2fc2db1 (HEAD -> main) Correction du compte rendu
+6a6f650 Création de l'aide-mémoire Git
+ec5f154 Ajout du compte rendu (questions 0 à 3.5)
+a1e7a65 Création du README
+
+2. Deux commit permette de comprendre indépendament chaque changement 
+   
+## Partie 4
+
+### Question 4.1
+
+1. git show montre tout ce qui a etait ajouté on retrouve l’auteur, la date, le message et les modifications apportées.
+   
+### Question 4.2
+
+1. git restore README.md annule la modification non préparée et remet le contenu
+
+### Question 4.3
+
+1. il se trouve dans repertoire de travail
+   le fichier n'a pas etait supprimé du disque 
+
+### Question 4.4
+
+1. Les fichiers qui on disparu sont brouillon  brouillon.txt
+        debug.log
+        erreurs.log
+        test.txt
+        *.log désigne
+les noms se terminant
+2.  .gitignore
+   
+### Question 4.5 
+
+1. le premier readme comtenait juste les question de 0 a 3.2 ce qui a changé l'ajout des autre question 
+   
+## Partie 5
+
+### Question 5.2
+
+1. les fichier des differente clés
+
