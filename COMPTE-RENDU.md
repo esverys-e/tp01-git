@@ -49,4 +49,8 @@ Date:   Thu Oct 1 11:44:40 2026 +0200
 2. Le hash du commit est ( commit a1e7a65257ad84a6f45412afdac0918ed1fe6175 ) (Author: esverys-e ) le message (Création du README)
 3. Le hash comporte 40 caractères il est ecrit en base héxadecimal et il représente 160 bits car 40*4=160
 
-### Question 3.8
+### Question 3.7
+
+1. README.md est indiqué comme modified
+2. Le + devant la ligne de l’année signifie que cette ligne a été ajoutée. Et le git diff sert a voir les modification
+
