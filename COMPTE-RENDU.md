@@ -126,4 +126,10 @@ To github.com:esverys-e/tp01-git.git
  * [new branch]      main -> main
 la branche 'main' est paramétrée pour suivre 'origin/main'.
 
-2. 
+### Question 6.4a
+
+1. car la modification a crée une nouvelle version et donc contient les modifiecation
+
+### Question 6.4b 
+
+1. L'autreur est Arnaud espinasse donc moi meme 
